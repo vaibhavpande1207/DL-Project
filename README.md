@@ -18,7 +18,7 @@
 Clone the repository
 
 ```bash
-https:https://github.com/sevenmentor-mk/CNN_Classifier
+https://github.com/vaibhavpande1207/DL-Project
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
